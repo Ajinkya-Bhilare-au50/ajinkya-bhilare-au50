@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **Travel booking System**
 
-- 🤝 I’m looking for help with **APIs related to**
+- 🤝 I’m looking for help with **APIs related to Trading**
 
 - 💬 Ask me about **Online Training Environment**
 
