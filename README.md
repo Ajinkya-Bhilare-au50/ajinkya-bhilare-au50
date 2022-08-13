@@ -3,7 +3,7 @@
 <h1 align="center">Hey Hi 👋, I'm AJINKYA BHILARE</h1>
 
 <h3 align="center">A passionate developer from MUMBAI, I have a passion to solve problems within a short time.</h3>
-<img align="right" alt="Coding" width="350" src="https://github.com/Ajinkya-Bhilare-au50/ajinkya-bhilare-au50/blob/main/codin.gif">
+<img align="right" alt="Coding" width="250" src="https://github.com/Ajinkya-Bhilare-au50/ajinkya-bhilare-au50/blob/main/codin.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajinkya-bhilare-au50&label=Profile%20views&color=0e75b6&style=flat" alt="ajinkya-bhilare-au50" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajinkya-bhilare-au50" alt="ajinkya-bhilare-au50" /></a> </p>
