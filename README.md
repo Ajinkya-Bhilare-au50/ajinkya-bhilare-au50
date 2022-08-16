@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey Hi 👋, I'm AJINKYA BHILARE</h1>
 
-<h3 align="center">A passionate developer from MUMBAI, I have a passion to solve problems within a short time.</h3>
+<h3 align="center">I'm a passionate developer from MUMBAI, I Love to solve coding problems within a short time.</h3>
 <img align="center" alt="Coding" width="150" src="https://github.com/Ajinkya-Bhilare-au50/ajinkya-bhilare-au50/blob/main/codin.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajinkya-bhilare-au50&label=Profile%20views&color=0e75b6&style=flat" alt="ajinkya-bhilare-au50" /> </p>
 
