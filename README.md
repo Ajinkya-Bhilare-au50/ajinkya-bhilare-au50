@@ -39,4 +39,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajinkya-bhilare-au50&show_icons=true&locale=en" alt="ajinkya-bhilare-au50" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajinkya-bhilare-au50&" alt="ajinkya-bhilare-au50" /></p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
