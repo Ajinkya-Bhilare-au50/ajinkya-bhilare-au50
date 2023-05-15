@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Online Flight Booking System**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Next JS**
 
 - 👯 I’m looking to collaborate on **Travel booking System**
 
